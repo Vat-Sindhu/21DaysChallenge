@@ -1,0 +1,4 @@
+1. Opened Github account 
+2.installed Gitbash 
+3.Created 3 New repository and pushed the repositories using git bash command prompt commands
+4.Introduction to React and thinking different website in react
