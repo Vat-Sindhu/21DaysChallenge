@@ -1,0 +1,7 @@
+1.Created React Project and worked on different compnents like
+     a.Header and its child components(searchbar)
+     b.Body
+     c.Footer
+2.Learned on Bem model
+
+3.Google coding standards Javascript 
