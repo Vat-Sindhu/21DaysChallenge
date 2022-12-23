@@ -2,6 +2,7 @@
      a.Header and its child components(searchbar)
      b.Body
      c.Footer
+     Repository: ReactProject1
 2.Learned on Bem model
 
 3.Google coding standards Javascript 
